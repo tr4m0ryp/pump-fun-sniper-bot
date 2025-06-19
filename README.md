@@ -1,6 +1,6 @@
 
 # Pump-Fun Sniper Bot
-
+//test
 This repository contains the codebase for the Pump-Fun Sniper Bot developed by [@licketyspliket](https://www.twitter.com/licketyspliket) and me. Although this project is archived and not intended for further iteration, this README provides a comprehensive overview to help anyone who may want to understand or run the bot.
 
 ## Overview
